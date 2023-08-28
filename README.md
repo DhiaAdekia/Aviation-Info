@@ -19,7 +19,7 @@ This application offers two key functions :
 
 ## 2. Technologies
 
-The application utilizes the following technologies:
+The application utilizes the following technologies with these specific versions :
 
 * Java (Version 17)
 * Spring Boot (Version 3.1.3)
